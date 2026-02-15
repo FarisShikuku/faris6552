@@ -30,7 +30,7 @@ Visualization: Matplotlib, Plotly, Equity Curves, Simulation Graphs
 
 📈 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=faris6552&show_icons=true&theme=radical&hide=contribs,prs
+https://github-readme-stats.vercel.app/api?username=FarisShikuku&show_icons=true&theme=radical&hide=contribs,prs
 
 ---
 
